@@ -213,3 +213,44 @@
     border-radius: 15px;
     text-align: center;
 }
+
+.footer{
+    max-height:100px;
+    width: 100%;
+    text-align: center;
+    background-color: aquamarine;
+}
+
+.footer h4{
+    padding-top: 8px;
+    font-size:32px;
+    color:red;
+    font-family: 'Oxygen', sans-serif;
+}
+
+.icons .fa{
+    margin: 0 13px;
+    cursor: pointer;
+    padding:18px 0;
+}
+
+.fa-facebook:hover,.fa-linkedin:hover{
+    color:blue;
+}
+
+.fa-youtube:hover{
+    color: red;
+}
+
+.fa-instagram:hover{
+    color: rgb(196, 34, 161);
+}
+
+a{
+    text-decoration:none;
+    color: black;
+}
+
+.fa-github:hover{
+    color:#ccc;
+}
